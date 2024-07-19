@@ -1,0 +1,1 @@
+var reportPages = [["Summary","DLCI_survey.html"],["Subsystem Report","DLCI_subsystems.html"],["Code Interface Report","DLCI_interface.html"],["Traceability Report","DLCI_trace.html"],["Static Code Metrics Report","DLCI_metrics.html"],["Code Replacements Report","DLCI_replacements.html"],["Coder Assumptions","DLCI_coderassumptions.html"]];

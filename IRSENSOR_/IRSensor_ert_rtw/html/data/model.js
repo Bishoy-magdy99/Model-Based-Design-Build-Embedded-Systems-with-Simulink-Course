@@ -1,0 +1,1 @@
+var modelInfo = {model:"IRSensor"};var modelHierarchy=[{model:"IRSensor",relativePath:"_internal.html",parent:"null"},];
